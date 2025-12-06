@@ -45,8 +45,6 @@
 <p align="center">
   <samp>
     Connect with me:<br>
-    <a href="mailto:ruthviksharma.d@gmail.com">Email</a>
-    •
     <a href="https://www.linkedin.com/in/ruthvik-s-6a4a732a1">LinkedIn</a>
     •
     <a href="https://ruthvikporto.framer.website">Website</a>
