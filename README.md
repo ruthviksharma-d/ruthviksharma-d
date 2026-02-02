@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Madhusudhan%20Reddy%20Ayyaluri&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+</p>
+
 <h3 align="center">Hey there, I'm Ruthvik Sharma 👋</h3>
 
 <p align="center">
