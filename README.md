@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Madhusudhan%20Reddy%20Ayyaluri&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=Ruthvik%20Sharma%20Dandibhotla&fontSize=38&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">Hey there, I'm Ruthvik Sharma 👋</h3>
@@ -56,3 +56,6 @@
 </p>
 
 <p align="center"><i>Thanks for visiting ✨</i></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:99f2c8,100:1f4037&height=120&section=footer"/>
+</p>
