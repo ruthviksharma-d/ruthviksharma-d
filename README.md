@@ -26,7 +26,17 @@
   />
 </div>
 
+---
+## 🌟 Featured Projects
 
+| 🚀 Project | 📝 Description | ⚙️ Tech Stack | 🔗 Link |
+|-----------|---------------|--------------|--------|
+| **Self-Driving Car** | An end-to-end deep learning project for autonomous driving. Includes data preprocessing, model training, real-time steering prediction, and computer vision techniques for lane-based navigation using behavioral cloning. | Python, Deep Learning | https://github.com/ruthviksharma-d/Self-driving-car |
+| **Deepfake Detection** | An advanced application for detecting deepfake media using state-of-the-art ML models. Includes model training pipelines, inference APIs, a reporting dashboard, and comprehensive evaluation metrics for authenticity verification. | Python, ML | https://github.com/ruthviksharma-d/deepfake-detection |
+| **My Own Photoshop Webapp in 7 Days** | A lightweight, browser-based image editing tool built in just 7 days. Upload images, apply filters, adjust brightness/contrast, crop, rotate, undo/redo, and download the final result — all in a fast and minimal interface. | TypeScript | https://github.com/ruthviksharma-d/My-own-photoshop-webapp-in-7-days |
+| **Reverse Image Search - Local MVP** | A lightweight prototype that finds visually similar images using deep learning, entirely offline. Perfect for exploring computer vision and semantic image matching. | HTML, Deep Learning | https://github.com/ruthviksharma-d/Reverse-Image-Search---Local-MVP |
+| **Secure Voting System using Aadhar** | A secure online voting system where voters are authenticated using their fingerprint before casting a vote. Ensures each person can vote only once with comprehensive identity verification. | HTML | https://github.com/ruthviksharma-d/secure-voting-system-using-aadhar |
+| **Stock Analyzer with n8n** | A stock analysis project integrated with n8n automation: data ingestion, analysis, alerts, and dashboard-ready outputs. Includes an HTTP wrapper for the analyzer and an importable n8n workflow. | n8n, Automation | https://github.com/ruthviksharma-d/Stock-Market-Analysis-with-n8n |
 ---
 
 <p align="center">
