@@ -39,7 +39,6 @@
 | **Stock Analyzer with n8n** | A stock analysis project integrated with n8n automation: data ingestion, analysis, alerts, and dashboard-ready outputs. Includes an HTTP wrapper for the analyzer and an importable n8n workflow. | n8n, Automation | https://github.com/ruthviksharma-d/Stock-Market-Analysis-with-n8n |
 ---
 
----
 ## 🎚️ Tier-wise Projects
 
 | 🎯 Level | 📂 Repository |
