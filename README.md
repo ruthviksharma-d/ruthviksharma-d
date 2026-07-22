@@ -68,9 +68,9 @@
 
 | 🎯 Level | 📂 Repository |
 |----------|--------------|
-| 🥇 **Tier 1 (Beginner)** | [View Projects](https://github.com/ruthviksharma-d/Tier-1-Beginner-Projects) |
+| 🥇 **Tier 3 (Advanced)** | [View Projects](https://github.com/ruthviksharma-d/Tier-3-Advanced-Projects) |
 | 🥈 **Tier 2 (Intermediate)** | [View Projects](https://github.com/ruthviksharma-d/Tier-2-Intermediate-Projects) |
-| 🥉 **Tier 3 (Advanced)** | [View Projects](https://github.com/ruthviksharma-d/Tier-3-Advanced-Projects) |
+| 🥉 **Tier 1 (Beginner)** | [View Projects](https://github.com/ruthviksharma-d/Tier-1-Beginner-Projects) |
 
 ---
 
