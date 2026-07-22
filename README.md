@@ -7,12 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ruthviksharma-d&label=Profile%20Views&color=1f4037&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/ruthviksharma-d?label=Followers&style=flat&color=1f4037" alt="followers" />
+  🌍 Based on the internet &nbsp;•&nbsp; 🤝 Open to ideas and collaboration &nbsp;•&nbsp; ⚡ Automating the boring stuff
 </p>
 
 <p align="center">
-  🌍 Based on the internet &nbsp;•&nbsp; 🤝 Open to ideas and collaboration &nbsp;•&nbsp; ⚡ Automating the boring stuff
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="500">
 </p>
 
 <br>
@@ -28,16 +27,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ruthviksharma-d&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruthviksharma-d&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-581-99f2c8?style=for-the-badge&logo=github&logoColor=white&labelColor=1f4037" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruthviksharma-d&theme=chartreuse-dark&hide_border=true" />
-</p>
+---
+
+## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruthviksharma-d&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ruthviksharma-d&theme=react-dark&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
@@ -51,8 +49,6 @@
     <img alt="contribution snake animation" src="https://raw.githubusercontent.com/ruthviksharma-d/ruthviksharma-d/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-
-> Auto-generated every 24h from my contribution graph via the `Platane/snk` action — see `snake.yml` (drop it in `.github/workflows/`) for the setup.
 
 ---
 
@@ -110,5 +106,5 @@
 <p align="center"><i>Thanks for visiting ✨</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:99f2c8,100:1f4037&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=120&section=footer"/>
 </p>
